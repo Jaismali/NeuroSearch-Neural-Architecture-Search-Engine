@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Models
+*.pt
+*.pth
+*.bin
+
+# Data
+data/
+datasets/
+
+# Logs
+logs/
+*.log
+
+# Node
+node_modules/
+
+# Env
+.env

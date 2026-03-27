@@ -1,0 +1,14 @@
+{
+  "task": "Object Image Classification",
+  "strategy": "random",
+  "ops": [
+    "conv5x5",
+    "identity",
+    "maxpool",
+    "conv5x5",
+    "avgpool"
+  ],
+  "accuracy": 40.8,
+  "params": 13562,
+  "total_evals": 40
+}
